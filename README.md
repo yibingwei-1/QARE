@@ -8,7 +8,7 @@
 
 TF-QARE extracts attribute-specific embeddings from frozen Vision-Language Models without any training. Given an image and a target attribute (object, style, or background), it produces an embedding that is sensitive to that attribute and invariant to others.
 
-**Key idea:** Generate a short structured reply conditioned on an attribute-focused prompt, then pool hidden states from the penultimate decoder layer over the reply tokens.
+**Key idea:** Given an image and an attribute-focused prompt, TF-QARE generates an attribute-specific reply and pools the penultimate-layer hidden states over the reply tokens.
 
 ## Installation
 
@@ -34,6 +34,8 @@ python run_inference.py --image_path img1.jpg --image_path_2 img2.jpg --attribut
 
 ## Dataset
 
+Dataset will be released soon.
+
 Download the QARE-Bench evaluation data from HuggingFace:
 
 ```bash
@@ -58,7 +60,23 @@ data/
 
 ## Evaluation
 
-Run QARE-Bench evaluation on the AttriVerse synthetic set:
+TF-QARE reports two complementary metrics:
+
+* **mAP** measures attribute-conditioned retrieval: whether images are retrieved according to the queried attribute.
+* **AIS** measures intra-image disentanglement: whether object / style / background embeddings from the same image are separated in representation space.
+
+### Prompt configurations
+
+The retrieval and AIS evaluations use different prompt configurations because they measure different properties:
+
+| Metric | Prompt configuration                  | Max new tokens | Purpose                          |
+| ------ | ------------------------------------- | :------------: | -------------------------------- |
+| mAP    | Structured two-part attribute prompts |       64       | Attribute-conditioned retrieval  |
+| AIS    | Compact keyword-style prompts         |       16       | Intra-image attribute separation |
+
+The structured prompts are designed to produce descriptive attribute-specific replies for retrieval. The compact AIS prompts are designed to reduce shared response structure across attributes when measuring intra-image embedding similarity.
+
+Run QARE-Bench retrieval evaluation on the released synthetic set:
 
 ```bash
 python eval.py \
@@ -68,14 +86,14 @@ python eval.py \
     --per_device_eval_batch_size 1
 ```
 
-Run on the Mission (real-world) dataset:
+Run AIS evaluation:
 
 ```bash
-python eval.py \
+python eval_ais.py \
     --model_name Qwen/Qwen2-VL-7B-Instruct \
-    --eval_dataset_config configs/eval/mission.yaml \
-    --encode_output_path outputs/mission \
-    --per_device_eval_batch_size 1
+    --eval_dataset_config configs/eval/attriverse.yaml \
+    --encode_output_path outputs/attriverse_ais \
+    --max_new_tokens 16
 ```
 
 Multi-GPU evaluation:
@@ -90,14 +108,14 @@ torchrun --nproc_per_node=8 eval.py \
 
 ## Results (QARE-Bench)
 
-| Method | Synthetic mAP | Real mAP |
-|--------|:---:|:---:|
-| CLIP | 4.5 | 27.7 |
-| SigLIP | 4.4 | 28.8 |
-| DINOv2 | 4.2 | 27.7 |
-| VLM2Vec-V1 (Qwen2-VL-7B) | 16.7 | 36.2 |
-| VLM2Vec-V2 (Qwen2-VL-2B) | 15.4 | 45.5 |
-| **TF-QARE (Qwen2-VL-7B)** | **78.4** | **64.3** |
+| Method                    | Synthetic mAP ↑ | Synthetic AIS ↓ | Real mAP ↑ | Real AIS ↓ |
+| ------------------------- | :-------------: | :-------------: | :--------: | :--------: |
+| CLIP                      |       4.5       |       1.00      |    27.7    |    1.00    |
+| SigLIP                    |       4.4       |       1.00      |    28.8    |    1.00    |
+| DINOv2                    |       4.2       |       1.00      |    27.7    |    1.00    |
+| VLM2Vec-V1 (Qwen2-VL-7B)  |       16.7      |       0.97      |    36.2    |    0.96    |
+| VLM2Vec-V2 (Qwen2-VL-2B)  |       15.4      |       0.82      |    45.5    |    0.81    |
+| **TF-QARE (Qwen2-VL-7B)** |     **78.4**    |     **0.68**    |  **64.3**  |  **0.59**  |
 
 ## Citation
 
