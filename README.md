@@ -34,13 +34,10 @@ python run_inference.py --image_path img1.jpg --image_path_2 img2.jpg --attribut
 
 ## Dataset
 
-Dataset will be released soon.
-
-Download the QARE-Bench evaluation data from HuggingFace:
+Download the QARE-Bench evaluation data from [HuggingFace](https://huggingface.co/datasets/sudeepk/QARE-Bench):
 
 ```bash
-# TODO: Replace with actual HuggingFace dataset URL
-# huggingface-cli download <HF_DATASET_URL> --local-dir ./data
+huggingface-cli download sudeepk/QARE-Bench --repo-type dataset --local-dir ./data
 ```
 
 Expected structure:
