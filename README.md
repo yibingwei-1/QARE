@@ -6,6 +6,8 @@
 >
 > Yibing Wei, Sudeep Katakol, Manuel Brack, Jinhong Lin, Haoyue Bai, Yu-Teng Li, Richard Zhang, Eli Shechtman, Hareesh Ravi, Ajinkya Kale
 
+[📄 Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Wei_Towards_Text-Guided_Attribute-Disentangled_Multimodal_Representation_Learning_CVPRF_2026_paper.pdf) | [🤗 Dataset](https://huggingface.co/datasets/sudeepk/QARE-Bench)
+
 TF-QARE extracts attribute-specific embeddings from frozen Vision-Language Models without any training. Given an image and a target attribute (object, style, or background), it produces an embedding that is sensitive to that attribute and invariant to others.
 
 **Key idea:** Given an image and an attribute-focused prompt, TF-QARE generates an attribute-specific reply and pools the penultimate-layer hidden states over the reply tokens.
