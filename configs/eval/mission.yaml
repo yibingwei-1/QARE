@@ -1,0 +1,9 @@
+Mission:
+    dataset_parser: mission
+    dataset_name: Mission
+    dataset_split: test
+    image_root: ./data/mission/
+    obj_jsonl_path: object_query_sets_v2.jsonl
+    bg_jsonl_path: background_query_sets_v3.jsonl
+    eval_type: local
+    metrics: [map, map_all, map_attr, hit, gt_avg, first_err, PN_gap]

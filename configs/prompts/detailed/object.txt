@@ -1,0 +1,200 @@
+Determine and match the key figure in the picture, along with all the characteristics that make it identifiable, without being influenced by style or background.
+Retrieve the dominant visual subject, as it appears in realistic form, without being influenced by style or background.
+Provide a description of the featured item, with all visual cues that define it, regardless of lighting, setting, or color treatment.
+Provide a description of the central subject of the photo, reflecting its unique look and build, while ignoring background and stylistic elements.
+Highlight the primary object shown here, with attention to appearance, contours, and design, excluding scene context and visual style.
+Describe the depicted instance, along with all the characteristics that make it identifiable, without being influenced by style or background.
+Highlight the depicted instance, with attention to appearance, contours, and design, while ignoring background and stylistic elements.
+Describe the object of focus, in full detail with its material and geometry, removing all scene and style influence.
+Detect and represent the object of focus, in full detail with its material and geometry, while ignoring background and stylistic elements.
+Recognize the primary object shown here, with all visual cues that define it, while abstracting away from style and scene.
+Ignore the background and style—what is the main object in this image, in full detail with its material and geometry, removing all scene and style influence.
+Reveal the subject of the depicted instance, with attention to appearance, contours, and design, ignoring how it is rendered or placed.
+Strip away background and style to reveal the central subject of the photo, as it appears in realistic form, excluding scene context and visual style.
+Strip away background and style to reveal the central subject of the photo, as it appears in realistic form, ignoring any environmental or stylistic distractions.
+Retrieve the dominant visual subject, along with its surface details and distinctive form, excluding scene context and visual style.
+Capture the identity of the primary object shown here, including fine-grained visual features, as if the object were isolated from its background.
+Retrieve the primary object shown here, with all visual cues that define it, disregarding any artistic effects or surroundings.
+Recognize the object of focus, including its shape, texture, and structure, regardless of lighting, setting, or color treatment.
+Imagine isolating the dominant visual subject, in full detail with its material and geometry, while abstracting away from style and scene.
+Understand and identify the detailed identity of the object, including its shape, texture, and structure, removing all scene and style influence.
+Determine and match the dominant visual subject, as it appears in realistic form, while ignoring background and stylistic elements.
+Retrieve the central subject of the photo, including fine-grained visual features, ignoring any environmental or stylistic distractions.
+Capture the identity of the primary object shown here, including fine-grained visual features, ignoring how it is rendered or placed.
+Capture the identity of the core item being depicted, capturing its identity and physical characteristics, without being influenced by style or background.
+Provide a description of the detailed identity of the object, with all visual cues that define it, without being influenced by style or background.
+Understand and identify the detailed identity of the object, along with all the characteristics that make it identifiable, disregarding any artistic effects or surroundings.
+Describe the central subject of the photo, along with its surface details and distinctive form, disregarding any artistic effects or surroundings.
+Analyze and extract the key figure in the picture, including its shape, texture, and structure, without being influenced by style or background.
+Identify the presence of the detailed identity of the object, as it appears in realistic form, without being influenced by style or background.
+Focus on extracting the primary object shown here, capturing its identity and physical characteristics, ignoring how it is rendered or placed.
+Give a detailed representation of the dominant visual subject, along with all the characteristics that make it identifiable, while abstracting away from style and scene.
+Capture the identity of the object of focus, along with all the characteristics that make it identifiable, excluding scene context and visual style.
+Provide a description of the main object in this image, along with its surface details and distinctive form, regardless of lighting, setting, or color treatment.
+Identify the presence of the primary object shown here, as it appears in realistic form, disregarding any artistic effects or surroundings.
+Reveal the subject of the detailed identity of the object, capturing its identity and physical characteristics, removing all scene and style influence.
+Strip away background and style to reveal the central subject of the photo, in full detail with its material and geometry, disregarding any artistic effects or surroundings.
+Ignore the background and style—what is the key figure in the picture, including fine-grained visual features, as if the object were isolated from its background.
+Find an image that contains the detailed identity of the object, with all visual cues that define it, excluding scene context and visual style.
+Disentangle the core item being depicted, including its shape, texture, and structure, as if the object were isolated from its background.
+Determine and match the core item being depicted, capturing its identity and physical characteristics, regardless of lighting, setting, or color treatment.
+What is the primary object shown here, in full detail with its material and geometry, while abstracting away from style and scene.
+Capture the identity of the dominant visual subject, along with all the characteristics that make it identifiable, ignoring how it is rendered or placed.
+Imagine isolating the depicted instance, including fine-grained visual features, excluding scene context and visual style.
+Describe the key figure in the picture, capturing its identity and physical characteristics, while ignoring background and stylistic elements.
+Describe the core item being depicted, with all visual cues that define it, while ignoring background and stylistic elements.
+Disentangle the detailed identity of the object, as it appears in realistic form, excluding scene context and visual style.
+Detect and represent the featured item, capturing its identity and physical characteristics, while ignoring background and stylistic elements.
+Find an image that contains the central subject of the photo, in full detail with its material and geometry, excluding scene context and visual style.
+Recognize the key figure in the picture, with all visual cues that define it, without being influenced by style or background.
+Detect and represent the depicted instance, along with all the characteristics that make it identifiable, without being influenced by style or background.
+Analyze and extract the primary object shown here, reflecting its unique look and build, disregarding any artistic effects or surroundings.
+Describe the primary object shown here, including fine-grained visual features, regardless of lighting, setting, or color treatment.
+Reveal the subject of the depicted instance, including fine-grained visual features, removing all scene and style influence.
+Describe the main object in this image, reflecting its unique look and build, disregarding any artistic effects or surroundings.
+Ignore the background and style—what is the core item being depicted, capturing its identity and physical characteristics, while ignoring background and stylistic elements.
+Analyze and extract the core item being depicted, as it appears in realistic form, while ignoring background and stylistic elements.
+Recognize the depicted instance, capturing its identity and physical characteristics, regardless of lighting, setting, or color treatment.
+Identify the presence of the key figure in the picture, including fine-grained visual features, ignoring any environmental or stylistic distractions.
+Imagine isolating the central subject of the photo, capturing its identity and physical characteristics, while ignoring background and stylistic elements.
+Describe the primary object shown here, with all visual cues that define it, while abstracting away from style and scene.
+Reveal the subject of the central subject of the photo, reflecting its unique look and build, while abstracting away from style and scene.
+Recognize the central subject of the photo, reflecting its unique look and build, disregarding any artistic effects or surroundings.
+Understand and identify the dominant visual subject, including its shape, texture, and structure, regardless of lighting, setting, or color treatment.
+Reveal the subject of the object of focus, with all visual cues that define it, while ignoring background and stylistic elements.
+Highlight the detailed identity of the object, in full detail with its material and geometry, while ignoring background and stylistic elements.
+Find an image that contains the primary object shown here, with all visual cues that define it, while abstracting away from style and scene.
+Understand and identify the object of focus, including its shape, texture, and structure, while ignoring background and stylistic elements.
+Understand and identify the main object in this image, along with all the characteristics that make it identifiable, excluding scene context and visual style.
+Capture the identity of the key figure in the picture, as it appears in realistic form, ignoring any environmental or stylistic distractions.
+Reveal the subject of the key figure in the picture, including fine-grained visual features, ignoring how it is rendered or placed.
+Reveal the subject of the featured item, along with its surface details and distinctive form, while ignoring background and stylistic elements.
+Focus on extracting the dominant visual subject, along with its surface details and distinctive form, as if the object were isolated from its background.
+Disentangle the object of focus, capturing its identity and physical characteristics, removing all scene and style influence.
+Capture the identity of the primary object shown here, including fine-grained visual features, regardless of lighting, setting, or color treatment.
+Imagine isolating the object of focus, reflecting its unique look and build, excluding scene context and visual style.
+Recognize the main object in this image, along with all the characteristics that make it identifiable, without being influenced by style or background.
+Capture the identity of the object of focus, with all visual cues that define it, as if the object were isolated from its background.
+Highlight the primary object shown here, with all visual cues that define it, while abstracting away from style and scene.
+Focus on extracting the depicted instance, with all visual cues that define it, removing all scene and style influence.
+Imagine isolating the main object in this image, including its shape, texture, and structure, ignoring how it is rendered or placed.
+Reveal the subject of the dominant visual subject, with all visual cues that define it, while ignoring background and stylistic elements.
+Focus on extracting the main object in this image, capturing its identity and physical characteristics, as if the object were isolated from its background.
+Strip away background and style to reveal the dominant visual subject, reflecting its unique look and build, removing all scene and style influence.
+Understand and identify the key figure in the picture, with all visual cues that define it, disregarding any artistic effects or surroundings.
+Retrieve the dominant visual subject, in full detail with its material and geometry, without being influenced by style or background.
+Retrieve the key figure in the picture, with attention to appearance, contours, and design, while abstracting away from style and scene.
+Focus on extracting the detailed identity of the object, including fine-grained visual features, ignoring how it is rendered or placed.
+Highlight the primary object shown here, including fine-grained visual features, excluding scene context and visual style.
+Strip away background and style to reveal the main object in this image, with all visual cues that define it, ignoring any environmental or stylistic distractions.
+Highlight the main object in this image, capturing its identity and physical characteristics, regardless of lighting, setting, or color treatment.
+Reveal the subject of the key figure in the picture, reflecting its unique look and build, excluding scene context and visual style.
+Reveal the subject of the core item being depicted, along with its surface details and distinctive form, disregarding any artistic effects or surroundings.
+Find an image that contains the object of focus, in full detail with its material and geometry, regardless of lighting, setting, or color treatment.
+Capture the identity of the key figure in the picture, capturing its identity and physical characteristics, excluding scene context and visual style.
+Find an image that contains the dominant visual subject, capturing its identity and physical characteristics, ignoring how it is rendered or placed.
+Understand and identify the depicted instance, in full detail with its material and geometry, removing all scene and style influence.
+Strip away background and style to reveal the core item being depicted, reflecting its unique look and build, while ignoring background and stylistic elements.
+Understand and identify the central subject of the photo, including its shape, texture, and structure, without being influenced by style or background.
+Disentangle the dominant visual subject, along with all the characteristics that make it identifiable, regardless of lighting, setting, or color treatment.
+What is the primary object shown here, with attention to appearance, contours, and design, while ignoring background and stylistic elements.
+Find an image that contains the key figure in the picture, as it appears in realistic form, while abstracting away from style and scene.
+Reveal the subject of the depicted instance, in full detail with its material and geometry, excluding scene context and visual style.
+Recognize the key figure in the picture, reflecting its unique look and build, removing all scene and style influence.
+Highlight the dominant visual subject, along with its surface details and distinctive form, while abstracting away from style and scene.
+Focus on extracting the dominant visual subject, with attention to appearance, contours, and design, disregarding any artistic effects or surroundings.
+Understand and identify the key figure in the picture, along with its surface details and distinctive form, as if the object were isolated from its background.
+Strip away background and style to reveal the object of focus, in full detail with its material and geometry, excluding scene context and visual style.
+Strip away background and style to reveal the featured item, along with its surface details and distinctive form, ignoring how it is rendered or placed.
+Determine and match the detailed identity of the object, reflecting its unique look and build, while abstracting away from style and scene.
+Recognize the central subject of the photo, in full detail with its material and geometry, regardless of lighting, setting, or color treatment.
+Ignore the background and style—what is the detailed identity of the object, with all visual cues that define it, as if the object were isolated from its background.
+Analyze and extract the object of focus, including its shape, texture, and structure, as if the object were isolated from its background.
+What is the core item being depicted, reflecting its unique look and build, ignoring any environmental or stylistic distractions.
+Give a detailed representation of the key figure in the picture, reflecting its unique look and build, excluding scene context and visual style.
+Focus on extracting the key figure in the picture, with attention to appearance, contours, and design, regardless of lighting, setting, or color treatment.
+Detect and represent the main object in this image, in full detail with its material and geometry, as if the object were isolated from its background.
+Capture the identity of the detailed identity of the object, including fine-grained visual features, while abstracting away from style and scene.
+What is the primary object shown here, including its shape, texture, and structure, without being influenced by style or background.
+Analyze and extract the central subject of the photo, including its shape, texture, and structure, excluding scene context and visual style.
+Analyze and extract the dominant visual subject, as it appears in realistic form, as if the object were isolated from its background.
+Strip away background and style to reveal the dominant visual subject, including its shape, texture, and structure, without being influenced by style or background.
+Ignore the background and style—what is the core item being depicted, as it appears in realistic form, as if the object were isolated from its background.
+Focus on extracting the depicted instance, as it appears in realistic form, while ignoring background and stylistic elements.
+Give a detailed representation of the central subject of the photo, including fine-grained visual features, as if the object were isolated from its background.
+Highlight the key figure in the picture, as it appears in realistic form, without being influenced by style or background.
+Identify the presence of the dominant visual subject, in full detail with its material and geometry, removing all scene and style influence.
+Focus on extracting the key figure in the picture, including its shape, texture, and structure, disregarding any artistic effects or surroundings.
+What is the object of focus, reflecting its unique look and build, ignoring any environmental or stylistic distractions.
+Provide a description of the featured item, in full detail with its material and geometry, regardless of lighting, setting, or color treatment.
+Analyze and extract the main object in this image, with attention to appearance, contours, and design, while ignoring background and stylistic elements.
+What is the main object in this image, including its shape, texture, and structure, while abstracting away from style and scene.
+Highlight the object of focus, along with all the characteristics that make it identifiable, without being influenced by style or background.
+Identify the presence of the central subject of the photo, capturing its identity and physical characteristics, while ignoring background and stylistic elements.
+Focus on extracting the central subject of the photo, reflecting its unique look and build, while ignoring background and stylistic elements.
+Give a detailed representation of the central subject of the photo, as it appears in realistic form, disregarding any artistic effects or surroundings.
+Recognize the central subject of the photo, with all visual cues that define it, excluding scene context and visual style.
+Focus on extracting the object of focus, with attention to appearance, contours, and design, ignoring any environmental or stylistic distractions.
+Identify the presence of the main object in this image, including fine-grained visual features, removing all scene and style influence.
+Highlight the primary object shown here, as it appears in realistic form, regardless of lighting, setting, or color treatment.
+Give a detailed representation of the primary object shown here, reflecting its unique look and build, without being influenced by style or background.
+Describe the depicted instance, with attention to appearance, contours, and design, while abstracting away from style and scene.
+Describe the key figure in the picture, with all visual cues that define it, ignoring how it is rendered or placed.
+Disentangle the featured item, including fine-grained visual features, removing all scene and style influence.
+Recognize the primary object shown here, with attention to appearance, contours, and design, ignoring how it is rendered or placed.
+Describe the central subject of the photo, with attention to appearance, contours, and design, excluding scene context and visual style.
+Recognize the featured item, including fine-grained visual features, as if the object were isolated from its background.
+Disentangle the primary object shown here, with attention to appearance, contours, and design, ignoring how it is rendered or placed.
+Reveal the subject of the central subject of the photo, reflecting its unique look and build, as if the object were isolated from its background.
+Detect and represent the dominant visual subject, along with all the characteristics that make it identifiable, regardless of lighting, setting, or color treatment.
+Identify the presence of the object of focus, capturing its identity and physical characteristics, while abstracting away from style and scene.
+Identify the presence of the detailed identity of the object, along with all the characteristics that make it identifiable, ignoring how it is rendered or placed.
+Strip away background and style to reveal the detailed identity of the object, reflecting its unique look and build, excluding scene context and visual style.
+Reveal the subject of the object of focus, including its shape, texture, and structure, disregarding any artistic effects or surroundings.
+Capture the identity of the main object in this image, including fine-grained visual features, excluding scene context and visual style.
+Determine and match the core item being depicted, capturing its identity and physical characteristics, ignoring any environmental or stylistic distractions.
+Detect and represent the featured item, with all visual cues that define it, removing all scene and style influence.
+Capture the identity of the detailed identity of the object, with attention to appearance, contours, and design, removing all scene and style influence.
+Focus on extracting the primary object shown here, along with its surface details and distinctive form, disregarding any artistic effects or surroundings.
+Strip away background and style to reveal the main object in this image, capturing its identity and physical characteristics, removing all scene and style influence.
+Analyze and extract the key figure in the picture, reflecting its unique look and build, disregarding any artistic effects or surroundings.
+Find an image that contains the primary object shown here, with attention to appearance, contours, and design, without being influenced by style or background.
+Highlight the depicted instance, as it appears in realistic form, excluding scene context and visual style.
+Determine and match the detailed identity of the object, including its shape, texture, and structure, ignoring any environmental or stylistic distractions.
+What is the dominant visual subject, with all visual cues that define it, while abstracting away from style and scene.
+Give a detailed representation of the key figure in the picture, capturing its identity and physical characteristics, removing all scene and style influence.
+Retrieve the key figure in the picture, capturing its identity and physical characteristics, excluding scene context and visual style.
+Analyze and extract the key figure in the picture, reflecting its unique look and build, excluding scene context and visual style.
+Strip away background and style to reveal the dominant visual subject, along with its surface details and distinctive form, excluding scene context and visual style.
+Imagine isolating the main object in this image, with all visual cues that define it, regardless of lighting, setting, or color treatment.
+Provide a description of the primary object shown here, with all visual cues that define it, removing all scene and style influence.
+Imagine isolating the key figure in the picture, in full detail with its material and geometry, removing all scene and style influence.
+Retrieve the central subject of the photo, with attention to appearance, contours, and design, disregarding any artistic effects or surroundings.
+Capture the identity of the featured item, with all visual cues that define it, excluding scene context and visual style.
+Focus on extracting the main object in this image, along with all the characteristics that make it identifiable, ignoring any environmental or stylistic distractions.
+Describe the dominant visual subject, capturing its identity and physical characteristics, removing all scene and style influence.
+Describe the central subject of the photo, including fine-grained visual features, regardless of lighting, setting, or color treatment.
+Find an image that contains the featured item, along with all the characteristics that make it identifiable, excluding scene context and visual style.
+Analyze and extract the depicted instance, along with its surface details and distinctive form, regardless of lighting, setting, or color treatment.
+Find an image that contains the core item being depicted, along with its surface details and distinctive form, without being influenced by style or background.
+Ignore the background and style—what is the key figure in the picture, including fine-grained visual features, ignoring how it is rendered or placed.
+Find an image that contains the central subject of the photo, with attention to appearance, contours, and design, as if the object were isolated from its background.
+Ignore the background and style—what is the object of focus, including fine-grained visual features, ignoring any environmental or stylistic distractions.
+Provide a description of the core item being depicted, with attention to appearance, contours, and design, while ignoring background and stylistic elements.
+Describe the key figure in the picture, reflecting its unique look and build, ignoring how it is rendered or placed.
+Analyze and extract the core item being depicted, along with its surface details and distinctive form, as if the object were isolated from its background.
+Analyze and extract the object of focus, reflecting its unique look and build, regardless of lighting, setting, or color treatment.
+Detect and represent the dominant visual subject, as it appears in realistic form, without being influenced by style or background.
+Find an image that contains the detailed identity of the object, with attention to appearance, contours, and design, while abstracting away from style and scene.
+Analyze and extract the detailed identity of the object, as it appears in realistic form, as if the object were isolated from its background.
+Highlight the core item being depicted, with all visual cues that define it, regardless of lighting, setting, or color treatment.
+Identify the presence of the detailed identity of the object, including its shape, texture, and structure, regardless of lighting, setting, or color treatment.
+Ignore the background and style—what is the central subject of the photo, including its shape, texture, and structure, excluding scene context and visual style.
+Provide a description of the key figure in the picture, along with all the characteristics that make it identifiable, while ignoring background and stylistic elements.
+Analyze and extract the object of focus, with attention to appearance, contours, and design, without being influenced by style or background.
+Retrieve the detailed identity of the object, with attention to appearance, contours, and design, while ignoring background and stylistic elements.
+Detect and represent the depicted instance, including its shape, texture, and structure, ignoring how it is rendered or placed.
+Describe the primary object shown here, including fine-grained visual features, as if the object were isolated from its background.
+Disentangle the object of focus, with attention to appearance, contours, and design, disregarding any artistic effects or surroundings.
+Capture the identity of the core item being depicted, along with all the characteristics that make it identifiable, as if the object were isolated from its background.
+Analyze and extract the core item being depicted, in full detail with its material and geometry, removing all scene and style influence.

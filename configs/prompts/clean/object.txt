@@ -1,0 +1,200 @@
+Find an image that contains the same main object as this one, while ignoring its style and background.
+Represent the main subject of the given image, ignoring the style and background in it.
+Focus on identifying the main object in the image, disregarding the artistic style and background elements.
+Extract the core object from this image, ignoring how it's styled or where it's placed.
+Represent the essential subject of the picture without considering background or visual effects.
+What is the central object in this image, independent of its surroundings and aesthetic treatment?
+Detect the object that this image is really about, regardless of how it’s drawn or rendered.
+Identify the object of interest shown in this image while ignoring colors, style, and scenery.
+Find an image of the same object type, without paying attention to the current image's style or background.
+Extract only the semantic content of the main object and ignore artistic distortions or context.
+Recognize the subject object and abstract away from how the scene is decorated.
+Retrieve the object instance depicted here without being influenced by visual style or context.
+Strip away the style and background—what object is being shown?
+Infer the object's identity regardless of lighting, scene, or rendering technique.
+Focus solely on the primary object category shown, ignoring the surrounding setting.
+Determine what this image is depicting, ignoring the stylistic and environmental details.
+What object does this image primarily show, if you remove the stylistic noise?
+Match the same object instance across images regardless of scene, lighting, or rendering.
+Ignore texture and background—what remains as the object of focus?
+Identify the object from this image as if it were shown on a blank background.
+Capture only the object's shape and structure—ignore color, lighting, and background.
+Identify the main object in the image, ignoring both style and background details.
+Extract the object feature while discarding stylistic elements and background scenery.
+What object is depicted here, regardless of its visual style or setting?
+Strip away style and background—what object remains at the center?
+Focus only on the main object; ignore how it’s styled and where it’s placed.
+Determine the core object in this image, free from style and environmental context.
+Describe the subject object without being influenced by background or artistic design.
+What is the essential object shown here, omitting both stylistic cues and the backdrop?
+Ignore the style and background—what object do you see?
+Recognize the object in this image by ignoring its visual style and background context.
+Extract the appearance and structure of the object, excluding the background and style.
+Focus on the object’s identity alone—do not consider the background or visual effects.
+What object is present in the image, independent of style and surroundings?
+Highlight only the primary object—ignore background clutter and artistic filters.
+Retrieve the object depicted here while ignoring background elements and stylization.
+Disregard the image’s style and context—what object is being shown?
+Infer the object shown while ignoring artistic choices and scene layout.
+Without considering style or background, what is the object shown in this image?
+Focus purely on the semantic object, ignoring all stylistic and background distractions.
+Identify the subject object and ignore anything related to styling or background content.
+What is the primary object shown here if you disregard all stylistic elements and background noise?
+Extract the visual representation of the object, without influence from style or background.
+Ignore both the background and artistic expression—what object is at the core of this image?
+Strip away texture, color scheme, and setting—what object does this image show?
+Which object is the main focus of the image, when you ignore how it’s visually rendered?
+Disregard the style and the background entirely. What object is portrayed?
+What would this image look like if only the object remained, with no background or styling?
+Imagine the object on a plain background with no stylization—what is it?
+Detect the object as if the background were blank and style neutralized.
+Focus only on the content of the object, removing all context and stylistic design.
+Without considering artistic rendering or scene, identify the object being shown.
+Analyze the object alone—dismiss any styling and ignore environmental elements.
+If the style and background were erased, what object would still be visible?
+What structure or item does this image center on, excluding style and background?
+Determine the object identity using its shape and form, not its presentation or context.
+Identify the subject that remains consistent across styles and backgrounds.
+Extract the object’s core representation, excluding decorative elements and surroundings.
+Focus on the object’s attributes alone—style and scene are irrelevant.
+Recognize the main object independent of how or where it is illustrated.
+Isolate the real-world object this image represents, ignoring all stylistic variations and context.
+Identify the central object shown here, removing all style and background influences.
+What object is being portrayed, independent of artistic effects or scenery?
+Disregard visual treatment and background—what is the actual object in focus?
+Ignore aesthetics and background settings—what object does this image depict?
+Focus on the object’s true identity, regardless of how or where it’s visualized.
+Which object is illustrated here, stripped of decorative and contextual elements?
+Without considering lighting, color, or background, what object remains?
+Determine the object as if it were shown in isolation, on a plain canvas.
+Filter out all visual style and context—what is the core object?
+What would this image contain if only the object remained, and everything else was removed?
+Imagine the image without color, effects, or scenery—what is the object?
+Strip the image down to just the object—what do you see?
+Forget the rendering details—what object does this fundamentally represent?
+Concentrate on the shape and identity of the object, ignoring how it’s been styled.
+What object is this image showing, aside from its visual setting and style?
+If you erased the background and design, what object would still be depicted?
+Determine what the object is, apart from how it's lit, styled, or positioned.
+Remove all non-object content—what is left in this image?
+Picture this object on a white background—what is it?
+Identify the visual content that would remain if you eliminated background and style.
+Focus on the raw object being shown, without any visual embellishments.
+What recognizable object is present here, unaffected by style or scenery?
+Disregard visual effects—what real-world object is this?
+What object can be inferred here, without relying on stylization or setting?
+What content in this image refers directly to an object, ignoring its presentation?
+Without external decoration or spatial cues, what is the core subject?
+What is this image trying to convey, purely in terms of object identity?
+Forget how it’s drawn—what is actually depicted here as the main object?
+What physical item is the subject, if you overlook the artistic and background choices?
+Imagine this object in a neutral space, with no decoration—what do you see?
+Understand the main subject as though the object were placed on a plain canvas.
+Understand the central figure as if it were shown in isolation, without style or setting.
+Capture the core object ignoring how the image is composed or colored.
+Capture the object independent of how it is styled or where it appears.
+Recognize the object while removing any background or stylistic distractions.
+Find the depicted item disregarding stylistic elements and background context.
+Retrieve the depicted item as though the object were placed on a plain canvas.
+Extract the depicted item as if it were shown in isolation, without style or setting.
+Detect the object without being affected by the surrounding environment or artistic rendering.
+Identify the object as if it were shown in isolation, without style or setting.
+Identify the central figure as if it were shown in isolation, without style or setting.
+Understand the depicted item ignoring how the image is composed or colored.
+Describe the main subject as though the object were placed on a plain canvas.
+Find the core object regardless of the visual effects or contextual setting.
+Identify the object regardless of the visual effects or contextual setting.
+Describe the depicted item as if it were shown in isolation, without style or setting.
+Understand the central figure ignoring how the image is composed or colored.
+Detect the central figure while removing any background or stylistic distractions.
+Detect the central figure excluding any influence from style or surroundings.
+Describe the core object without being affected by the surrounding environment or artistic rendering.
+Understand the core object excluding any influence from style or surroundings.
+Find the core object while removing any background or stylistic distractions.
+Identify the object independent of how it is styled or where it appears.
+Retrieve the core object as if it were shown in isolation, without style or setting.
+Find the core object excluding any influence from style or surroundings.
+Identify the depicted item without being affected by the surrounding environment or artistic rendering.
+Capture the depicted item independent of how it is styled or where it appears.
+Recognize the central figure independent of how it is styled or where it appears.
+Retrieve the main subject disregarding stylistic elements and background context.
+Recognize the object without being affected by the surrounding environment or artistic rendering.
+Retrieve the main subject as if it were shown in isolation, without style or setting.
+Extract the depicted item ignoring how the image is composed or colored.
+Find the core object independent of how it is styled or where it appears.
+Detect the object ignoring the background and visual style.
+Capture the depicted item disregarding stylistic elements and background context.
+Identify the depicted item as if it were shown in isolation, without style or setting.
+Describe the object disregarding stylistic elements and background context.
+Identify the core object ignoring the background and visual style.
+Recognize the depicted item ignoring the background and visual style.
+Identify the object as though the object were placed on a plain canvas.
+Describe the depicted item ignoring how the image is composed or colored.
+Capture the object while removing any background or stylistic distractions.
+Find the central figure as if it were shown in isolation, without style or setting.
+Recognize the core object ignoring how the image is composed or colored.
+Extract the object as if it were shown in isolation, without style or setting.
+Extract the core object disregarding stylistic elements and background context.
+Detect the depicted item as though the object were placed on a plain canvas.
+Describe the object independent of how it is styled or where it appears.
+Find the depicted item while removing any background or stylistic distractions.
+Understand the main subject as if it were shown in isolation, without style or setting.
+Identify the central figure independent of how it is styled or where it appears.
+Extract the depicted item regardless of the visual effects or contextual setting.
+Capture the central figure ignoring how the image is composed or colored.
+Capture the depicted item regardless of the visual effects or contextual setting.
+Recognize the main subject disregarding stylistic elements and background context.
+Describe the object excluding any influence from style or surroundings.
+Recognize the main subject ignoring how the image is composed or colored.
+Find the depicted item excluding any influence from style or surroundings.
+Describe the central figure excluding any influence from style or surroundings.
+Recognize the central figure excluding any influence from style or surroundings.
+Extract the central figure excluding any influence from style or surroundings.
+Understand the depicted item regardless of the visual effects or contextual setting.
+Detect the object excluding any influence from style or surroundings.
+Identify the core object independent of how it is styled or where it appears.
+Retrieve the depicted item as if it were shown in isolation, without style or setting.
+Extract the core object as if it were shown in isolation, without style or setting.
+Understand the core object disregarding stylistic elements and background context.
+Identify the core object without being affected by the surrounding environment or artistic rendering.
+Recognize the depicted item as though the object were placed on a plain canvas.
+Retrieve the central figure regardless of the visual effects or contextual setting.
+Understand the core object without being affected by the surrounding environment or artistic rendering.
+Recognize the central figure regardless of the visual effects or contextual setting.
+Retrieve the object as though the object were placed on a plain canvas.
+Understand the main subject without being affected by the surrounding environment or artistic rendering.
+Identify the core object as though the object were placed on a plain canvas.
+Identify the central figure ignoring how the image is composed or colored.
+Identify the object excluding any influence from style or surroundings.
+Detect the object ignoring how the image is composed or colored.
+Focus on the object itself—ignore how the scene is designed or styled.
+Which object is shown here if you disregard the background and visual appearance?
+What remains when you remove the visual style and surrounding elements?
+Identify the subject without considering artistic choices or spatial context.
+Analyze only the object—don’t consider lighting, texture, or background elements.
+What does this image depict at its core, if you strip away all styling?
+Disregard color, composition, and background—what is the object depicted?
+Which object stands out when you ignore how it’s framed or decorated?
+Imagine this object without any visual context—what is it?
+Focus only on what the object is, not how it’s made to look.
+If you filtered out the style and setting, what object would you recognize?
+What object is central to this image, when you look past visual enhancements?
+Ignore all visual distractions—what physical object is being shown?
+Determine the object’s identity without influence from colors, textures, or background.
+If you neutralized the image visually, what would still be clearly represented?
+Concentrate on the actual thing shown, not its artistic or scenic wrapper.
+What is the main object here, if the image were reduced to pure content?
+Strip away background and aesthetic—what solid object is still identifiable?
+What is the intended object focus, beyond decorative choices and layout?
+See through the style—what object is this image truly about?
+Identify the object without being affected by the surrounding environment or artistic rendering.
+Capture the depicted item as though the object were placed on a plain canvas.
+Describe the central figure ignoring the background and visual style.
+Retrieve the core object without being affected by the surrounding environment or artistic rendering.
+Recognize the central figure without being affected by the surrounding environment or artistic rendering.
+Extract the depicted item as though the object were placed on a plain canvas.
+Detect the depicted item without being affected by the surrounding environment or artistic rendering.
+Extract the core object ignoring the background and visual style.
+Extract the core object ignoring how the image is composed or colored.
+Retrieve the core object as though the object were placed on a plain canvas.
+Find the central figure while removing any background or stylistic distractions.

@@ -1,0 +1,7 @@
+AttriVerseA:
+    dataset_parser: attriverse_viz
+    dataset_name: AttriVerseA
+    dataset_split: test
+    image_root: ./data/AttriVerse/A/
+    eval_type: local
+    metrics: [map, map_all, map_attr]

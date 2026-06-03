@@ -1,0 +1,200 @@
+Analyze the background's look and structure—how the space is arranged or structured, excluding both the depicted subject and visual effects.
+Focus on the visible environment in the background—how the lighting and colors define the scene, without considering the central subject or image stylization.
+Identify the background setting—the type of location it represents, ignoring what is in the foreground or how the image is styled.
+Identify the background setting—how the space is arranged or structured, without being influenced by the primary object or artistic rendering.
+Extract the visual information from the background—the spatial organization and visual mood, removing influence from style and the main object.
+Extract the visual information from the background—the layout and visual arrangement of the scene, without considering the central subject or image stylization.
+Describe the background scene shown in this image—how the lighting and colors define the scene, ignoring both the object shown and the way the image is styled.
+Retrieve the background details—the environmental components visible, removing influence from style and the main object.
+Analyze the background's look and structure—the type of location it represents, without considering the central subject or image stylization.
+Capture what the background visually reveals—how the background conveys a sense of place, while ignoring the foreground object and stylistic rendering.
+Focus on the background’s visual content—the location category and its spatial structure, without considering the central subject or image stylization.
+Analyze the background's look and structure—what kind of place it is, ignoring both the object shown and the way the image is styled.
+Provide a detailed description of the background’s appearance—how the space is arranged or structured, without being influenced by the primary object or artistic rendering.
+Analyze the background's look and structure—the spatial organization and visual mood, excluding both the depicted subject and visual effects.
+Represent the scene shown in the background—what kind of place it is, without being influenced by the primary object or artistic rendering.
+Provide a detailed description of the background’s appearance—how the lighting and colors define the scene, removing influence from style and the main object.
+Focus on the background’s visual content—how the lighting and colors define the scene, without considering the central subject or image stylization.
+Focus on the visible environment in the background—how the space is arranged or structured, without being influenced by the primary object or artistic rendering.
+Focus on the visible environment in the background—the layout and visual arrangement of the scene, without considering the central subject or image stylization.
+Focus on the visible environment in the background—how the lighting and colors define the scene, ignoring what is in the foreground or how the image is styled.
+Extract the visual information from the background—the spatial organization and visual mood, while disregarding the depicted object and any artistic treatment.
+Retrieve the background details—the location category and its spatial structure, excluding any information about the main subject or style.
+Retrieve the background details—the location category and its spatial structure, excluding both the depicted subject and visual effects.
+Represent the scene shown in the background—the type of location it represents, ignoring both the object shown and the way the image is styled.
+Extract the visual information from the background—the environmental components visible, removing influence from style and the main object.
+Analyze the background's look and structure—the environmental components visible, ignoring what is in the foreground or how the image is styled.
+Focus on the background’s visual content—the layout and visual arrangement of the scene, without being influenced by the primary object or artistic rendering.
+Analyze the background's look and structure—how the lighting and colors define the scene, excluding any information about the main subject or style.
+Retrieve the background details—how the space is arranged or structured, without considering the central subject or image stylization.
+Retrieve the background details—the layout and visual arrangement of the scene, while ignoring the foreground object and stylistic rendering.
+Identify the background setting—the layout and visual arrangement of the scene, without considering the central subject or image stylization.
+Focus on the visible environment in the background—how the background conveys a sense of place, removing influence from style and the main object.
+Retrieve the background details—the layout and visual arrangement of the scene, excluding any information about the main subject or style.
+Provide a detailed description of the background’s appearance—the type of location it represents, ignoring both the object shown and the way the image is styled.
+Identify the background setting—how the space is arranged or structured, excluding any information about the main subject or style.
+Focus on the visible environment in the background—the layout and visual arrangement of the scene, while disregarding the depicted object and any artistic treatment.
+Provide a detailed description of the background’s appearance—what elements make up the setting, ignoring both the object shown and the way the image is styled.
+Extract the visual information from the background—how the background conveys a sense of place, excluding both the depicted subject and visual effects.
+Focus on the visible environment in the background—what kind of place it is, without being influenced by the primary object or artistic rendering.
+Extract the visual information from the background—the location category and its spatial structure, ignoring both the object shown and the way the image is styled.
+Extract the visual information from the background—how the lighting and colors define the scene, ignoring what is in the foreground or how the image is styled.
+Identify the background setting—what kind of place it is, ignoring both the object shown and the way the image is styled.
+Represent the scene shown in the background—the layout and visual arrangement of the scene, without considering the central subject or image stylization.
+Provide a detailed description of the background’s appearance—the type of location it represents, without considering the central subject or image stylization.
+Capture what the background visually reveals—the environmental components visible, without considering the central subject or image stylization.
+Identify the background setting—the location category and its spatial structure, excluding any information about the main subject or style.
+Describe the background scene shown in this image—how the background conveys a sense of place, while ignoring the foreground object and stylistic rendering.
+Represent the scene shown in the background—how the lighting and colors define the scene, while ignoring the foreground object and stylistic rendering.
+Identify the background setting—how the space is arranged or structured, without considering the central subject or image stylization.
+Describe the background scene shown in this image—the layout and visual arrangement of the scene, ignoring both the object shown and the way the image is styled.
+Focus on the background’s visual content—the location category and its spatial structure, while ignoring the foreground object and stylistic rendering.
+Identify the background setting—the environmental components visible, excluding any information about the main subject or style.
+Focus on the background’s visual content—how the space is arranged or structured, ignoring both the object shown and the way the image is styled.
+Represent the scene shown in the background—the layout and visual arrangement of the scene, excluding any information about the main subject or style.
+Retrieve the background details—the layout and visual arrangement of the scene, leaving out foreground elements and stylistic choices.
+Provide a detailed description of the background’s appearance—what elements make up the setting, excluding both the depicted subject and visual effects.
+Identify the background setting—the type of location it represents, while disregarding the depicted object and any artistic treatment.
+Analyze the background's look and structure—how the space is arranged or structured, without considering the central subject or image stylization.
+Identify the background setting—what elements make up the setting, while ignoring the foreground object and stylistic rendering.
+Focus on the background’s visual content—the spatial organization and visual mood, without considering the central subject or image stylization.
+Describe the background scene shown in this image—the layout and visual arrangement of the scene, without considering the central subject or image stylization.
+Analyze the background's look and structure—the spatial organization and visual mood, without considering the central subject or image stylization.
+Analyze the background's look and structure—the location category and its spatial structure, excluding any information about the main subject or style.
+Retrieve the background details—the location category and its spatial structure, ignoring what is in the foreground or how the image is styled.
+Capture what the background visually reveals—the layout and visual arrangement of the scene, removing influence from style and the main object.
+Focus on the background’s visual content—the environmental components visible, leaving out foreground elements and stylistic choices.
+Capture what the background visually reveals—how the background conveys a sense of place, leaving out foreground elements and stylistic choices.
+Provide a detailed description of the background’s appearance—what elements make up the setting, while disregarding the depicted object and any artistic treatment.
+Describe the background scene shown in this image—the environmental components visible, ignoring what is in the foreground or how the image is styled.
+Analyze the background's look and structure—what elements make up the setting, while ignoring the foreground object and stylistic rendering.
+Analyze the background's look and structure—the environmental components visible, leaving out foreground elements and stylistic choices.
+Describe the background scene shown in this image—the environmental components visible, while disregarding the depicted object and any artistic treatment.
+Focus on the background’s visual content—the spatial organization and visual mood, excluding any information about the main subject or style.
+Focus on the background’s visual content—the spatial organization and visual mood, ignoring what is in the foreground or how the image is styled.
+Describe the background scene shown in this image—the layout and visual arrangement of the scene, without being influenced by the primary object or artistic rendering.
+Identify the background setting—the environmental components visible, without considering the central subject or image stylization.
+Represent the scene shown in the background—the environmental components visible, without considering the central subject or image stylization.
+Capture what the background visually reveals—the layout and visual arrangement of the scene, while ignoring the foreground object and stylistic rendering.
+Identify the background setting—the layout and visual arrangement of the scene, ignoring what is in the foreground or how the image is styled.
+Identify the background setting—the type of location it represents, without being influenced by the primary object or artistic rendering.
+Represent the scene shown in the background—the type of location it represents, excluding any information about the main subject or style.
+Focus on the background’s visual content—the type of location it represents, ignoring both the object shown and the way the image is styled.
+Analyze the background's look and structure—the type of location it represents, while ignoring the foreground object and stylistic rendering.
+Focus on the background’s visual content—what kind of place it is, without considering the central subject or image stylization.
+Provide a detailed description of the background’s appearance—the location category and its spatial structure, leaving out foreground elements and stylistic choices.
+Focus on the background’s visual content—how the background conveys a sense of place, without considering the central subject or image stylization.
+Represent the scene shown in the background—how the background conveys a sense of place, without considering the central subject or image stylization.
+Capture what the background visually reveals—how the lighting and colors define the scene, without being influenced by the primary object or artistic rendering.
+Represent the scene shown in the background—the type of location it represents, without being influenced by the primary object or artistic rendering.
+Represent the scene shown in the background—how the lighting and colors define the scene, while disregarding the depicted object and any artistic treatment.
+Represent the scene shown in the background—how the space is arranged or structured, leaving out foreground elements and stylistic choices.
+Extract the visual information from the background—how the background conveys a sense of place, leaving out foreground elements and stylistic choices.
+Extract the visual information from the background—the layout and visual arrangement of the scene, excluding any information about the main subject or style.
+Extract the visual information from the background—the spatial organization and visual mood, excluding both the depicted subject and visual effects.
+Focus on the background’s visual content—what elements make up the setting, while ignoring the foreground object and stylistic rendering.
+Focus on the visible environment in the background—the type of location it represents, without being influenced by the primary object or artistic rendering.
+Identify the background setting—how the background conveys a sense of place, ignoring what is in the foreground or how the image is styled.
+Provide a detailed description of the background’s appearance—how the space is arranged or structured, while disregarding the depicted object and any artistic treatment.
+Identify the background setting—the layout and visual arrangement of the scene, while ignoring the foreground object and stylistic rendering.
+Provide a detailed description of the background’s appearance—what elements make up the setting, removing influence from style and the main object.
+Focus on the visible environment in the background—what kind of place it is, excluding any information about the main subject or style.
+Focus on the visible environment in the background—how the lighting and colors define the scene, removing influence from style and the main object.
+Represent the scene shown in the background—how the lighting and colors define the scene, excluding any information about the main subject or style.
+Capture what the background visually reveals—the spatial organization and visual mood, excluding both the depicted subject and visual effects.
+Extract the visual information from the background—how the space is arranged or structured, ignoring what is in the foreground or how the image is styled.
+Represent the scene shown in the background—how the lighting and colors define the scene, ignoring both the object shown and the way the image is styled.
+Focus on the background’s visual content—the layout and visual arrangement of the scene, excluding both the depicted subject and visual effects.
+Represent the scene shown in the background—the spatial organization and visual mood, without being influenced by the primary object or artistic rendering.
+Retrieve the background details—how the lighting and colors define the scene, removing influence from style and the main object.
+Retrieve the background details—the environmental components visible, while ignoring the foreground object and stylistic rendering.
+Capture what the background visually reveals—the location category and its spatial structure, while ignoring the foreground object and stylistic rendering.
+Capture what the background visually reveals—the type of location it represents, while ignoring the foreground object and stylistic rendering.
+Describe the background scene shown in this image—how the space is arranged or structured, without considering the central subject or image stylization.
+Identify the background setting—the layout and visual arrangement of the scene, while disregarding the depicted object and any artistic treatment.
+Capture what the background visually reveals—the location category and its spatial structure, without considering the central subject or image stylization.
+Describe the background scene shown in this image—what kind of place it is, ignoring both the object shown and the way the image is styled.
+Describe the background scene shown in this image—how the lighting and colors define the scene, without being influenced by the primary object or artistic rendering.
+Focus on the background’s visual content—how the lighting and colors define the scene, removing influence from style and the main object.
+Retrieve the background details—the type of location it represents, while disregarding the depicted object and any artistic treatment.
+Extract the visual information from the background—the location category and its spatial structure, excluding both the depicted subject and visual effects.
+Describe the background scene shown in this image—the layout and visual arrangement of the scene, while disregarding the depicted object and any artistic treatment.
+Analyze the background's look and structure—what kind of place it is, while ignoring the foreground object and stylistic rendering.
+Focus on the visible environment in the background—the location category and its spatial structure, excluding any information about the main subject or style.
+Extract the visual information from the background—the spatial organization and visual mood, leaving out foreground elements and stylistic choices.
+Identify the background setting—the type of location it represents, leaving out foreground elements and stylistic choices.
+Extract the visual information from the background—the location category and its spatial structure, excluding any information about the main subject or style.
+Analyze the background's look and structure—the environmental components visible, while ignoring the foreground object and stylistic rendering.
+Focus on the background’s visual content—what elements make up the setting, without considering the central subject or image stylization.
+Identify the background setting—the environmental components visible, without being influenced by the primary object or artistic rendering.
+Describe the background scene shown in this image—how the lighting and colors define the scene, while disregarding the depicted object and any artistic treatment.
+Analyze the background's look and structure—the type of location it represents, ignoring both the object shown and the way the image is styled.
+Represent the scene shown in the background—the spatial organization and visual mood, leaving out foreground elements and stylistic choices.
+Analyze the background's look and structure—the layout and visual arrangement of the scene, removing influence from style and the main object.
+Describe the background scene shown in this image—how the space is arranged or structured, leaving out foreground elements and stylistic choices.
+Identify the background setting—the environmental components visible, ignoring what is in the foreground or how the image is styled.
+Describe the background scene shown in this image—the environmental components visible, without being influenced by the primary object or artistic rendering.
+Provide a detailed description of the background’s appearance—the spatial organization and visual mood, excluding both the depicted subject and visual effects.
+Describe the background scene shown in this image—the location category and its spatial structure, excluding any information about the main subject or style.
+Describe the background scene shown in this image—the location category and its spatial structure, without being influenced by the primary object or artistic rendering.
+Retrieve the background details—what elements make up the setting, removing influence from style and the main object.
+Identify the background setting—the location category and its spatial structure, without being influenced by the primary object or artistic rendering.
+Extract the visual information from the background—the layout and visual arrangement of the scene, removing influence from style and the main object.
+Represent the scene shown in the background—how the background conveys a sense of place, without being influenced by the primary object or artistic rendering.
+Represent the scene shown in the background—the type of location it represents, excluding both the depicted subject and visual effects.
+Analyze the background's look and structure—how the lighting and colors define the scene, removing influence from style and the main object.
+Focus on the background’s visual content—the spatial organization and visual mood, removing influence from style and the main object.
+Provide a detailed description of the background’s appearance—what kind of place it is, while disregarding the depicted object and any artistic treatment.
+Focus on the background’s visual content—how the lighting and colors define the scene, without being influenced by the primary object or artistic rendering.
+Focus on the background’s visual content—what elements make up the setting, without being influenced by the primary object or artistic rendering.
+Analyze the background's look and structure—how the space is arranged or structured, removing influence from style and the main object.
+Extract the visual information from the background—how the lighting and colors define the scene, excluding both the depicted subject and visual effects.
+Represent the scene shown in the background—how the background conveys a sense of place, excluding both the depicted subject and visual effects.
+Capture what the background visually reveals—the spatial organization and visual mood, while ignoring the foreground object and stylistic rendering.
+Focus on the background’s visual content—the location category and its spatial structure, excluding both the depicted subject and visual effects.
+Describe the background scene shown in this image—what elements make up the setting, while ignoring the foreground object and stylistic rendering.
+Provide a detailed description of the background’s appearance—the type of location it represents, ignoring what is in the foreground or how the image is styled.
+Describe the background scene shown in this image—the environmental components visible, while ignoring the foreground object and stylistic rendering.
+Represent the scene shown in the background—how the lighting and colors define the scene, excluding both the depicted subject and visual effects.
+Retrieve the background details—the location category and its spatial structure, without considering the central subject or image stylization.
+Extract the visual information from the background—the spatial organization and visual mood, ignoring both the object shown and the way the image is styled.
+Represent the scene shown in the background—the environmental components visible, ignoring what is in the foreground or how the image is styled.
+Describe the background scene shown in this image—how the lighting and colors define the scene, without considering the central subject or image stylization.
+Describe the background scene shown in this image—the type of location it represents, ignoring both the object shown and the way the image is styled.
+Provide a detailed description of the background’s appearance—the environmental components visible, without being influenced by the primary object or artistic rendering.
+Represent the scene shown in the background—what kind of place it is, ignoring what is in the foreground or how the image is styled.
+Focus on the background’s visual content—how the space is arranged or structured, removing influence from style and the main object.
+Focus on the visible environment in the background—how the background conveys a sense of place, ignoring both the object shown and the way the image is styled.
+Focus on the background’s visual content—how the lighting and colors define the scene, excluding both the depicted subject and visual effects.
+Focus on the visible environment in the background—the type of location it represents, without considering the central subject or image stylization.
+Extract the visual information from the background—what kind of place it is, while disregarding the depicted object and any artistic treatment.
+Identify the background setting—the location category and its spatial structure, while ignoring the foreground object and stylistic rendering.
+Represent the scene shown in the background—the location category and its spatial structure, without being influenced by the primary object or artistic rendering.
+Describe the background scene shown in this image—how the background conveys a sense of place, while disregarding the depicted object and any artistic treatment.
+Describe the background scene shown in this image—what elements make up the setting, while disregarding the depicted object and any artistic treatment.
+Analyze the background's look and structure—the environmental components visible, while disregarding the depicted object and any artistic treatment.
+Describe the background scene shown in this image—how the lighting and colors define the scene, excluding any information about the main subject or style.
+Capture what the background visually reveals—the environmental components visible, while ignoring the foreground object and stylistic rendering.
+Provide a detailed description of the background’s appearance—what kind of place it is, without considering the central subject or image stylization.
+Describe the background scene shown in this image—how the space is arranged or structured, excluding any information about the main subject or style.
+Extract the visual information from the background—the environmental components visible, leaving out foreground elements and stylistic choices.
+Analyze the background's look and structure—how the lighting and colors define the scene, ignoring what is in the foreground or how the image is styled.
+Analyze the background's look and structure—how the lighting and colors define the scene, excluding both the depicted subject and visual effects.
+Describe the background scene shown in this image—what elements make up the setting, without considering the central subject or image stylization.
+Capture what the background visually reveals—the type of location it represents, while disregarding the depicted object and any artistic treatment.
+Provide a detailed description of the background’s appearance—how the space is arranged or structured, ignoring both the object shown and the way the image is styled.
+Provide a detailed description of the background’s appearance—the type of location it represents, while disregarding the depicted object and any artistic treatment.
+Represent the scene shown in the background—the type of location it represents, ignoring what is in the foreground or how the image is styled.
+Identify the background setting—how the lighting and colors define the scene, leaving out foreground elements and stylistic choices.
+Focus on the visible environment in the background—what kind of place it is, removing influence from style and the main object.
+Focus on the visible environment in the background—the spatial organization and visual mood, while ignoring the foreground object and stylistic rendering.
+Analyze the background's look and structure—the spatial organization and visual mood, ignoring what is in the foreground or how the image is styled.
+Extract the visual information from the background—the environmental components visible, ignoring both the object shown and the way the image is styled.
+Represent the scene shown in the background—what elements make up the setting, excluding both the depicted subject and visual effects.
+Focus on the visible environment in the background—what elements make up the setting, excluding both the depicted subject and visual effects.
+Focus on the visible environment in the background—how the space is arranged or structured, ignoring both the object shown and the way the image is styled.
+Extract the visual information from the background—the environmental components visible, while disregarding the depicted object and any artistic treatment.
+Retrieve the background details—how the background conveys a sense of place, removing influence from style and the main object.
+Describe the background scene shown in this image—the environmental components visible, excluding both the depicted subject and visual effects.
+Identify the background setting—the location category and its spatial structure, ignoring what is in the foreground or how the image is styled.
+Extract the visual information from the background—the type of location it represents, leaving out foreground elements and stylistic choices.
