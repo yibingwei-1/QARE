@@ -36,6 +36,8 @@ python run_inference.py --image_path img1.jpg --image_path_2 img2.jpg --attribut
 
 ## Dataset
 
+We currently release the QARE-Bench Synthetic benchmark used for the public evaluation. The QARE-Bench Real set will be released soon.
+
 Download the QARE-Bench evaluation data from [HuggingFace](https://huggingface.co/datasets/sudeepk/QARE-Bench):
 
 ```bash
